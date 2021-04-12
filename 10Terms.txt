@@ -1,0 +1,10 @@
+1. ReactJS = Facebook supported open-source javascript language 
+2. AngularJS = Kinda the same thing as ReactJS except it's for Google
+3. JSON = Taking over from XML as a preferred data exchange format from web to server
+4. Docker Container = A Unix or Windows standalone virtual application server
+5. Kanban = Looks like a sprint within a sprint. 
+6. Elastic Search = Text search engine on Apache 
+7. RESTful = Representation State Transfer/ It's another data protocol like SOAP but stateless and with less structure.
+8. Kubernetes = Like a container administrator, so you can manage multiple Docker containers
+9. Tableau = Kinda like PowerBI so you can make dashboards from excel data
+10. ESB = Enterprise service bus - Middleware controller that connects smaller applications together.

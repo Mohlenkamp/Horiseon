@@ -1,0 +1,42 @@
+﻿body
+{
+}
+h1 {
+    text-align:center;
+}
+p.p-red{
+    color:red;
+}
+p.p-blue {
+    color: blue;
+}
+p.p-green {
+    color: green;
+}
+p.p-orange {
+    color: orange;
+}
+p.p-big {
+    font-size:larger;
+}
+p.p-tiny{
+    font-size:smaller;
+}
+p.p-centered{
+    text-align:center;
+}
+p.p-bold{
+    font-weight:bold;
+}
+p.p-arial{
+    font-family:Arial;
+}
+p.styledFont{
+    color:green;
+    font-size:large;
+}
+#styledImage{
+    border-width:thick;
+    border-color:orange;
+    border-style: solid;
+}
