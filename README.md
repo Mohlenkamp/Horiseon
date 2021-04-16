@@ -14,4 +14,3 @@ Description: Horiseon is an SEO, Reputation Management, and Social Media Marketi
 This is a simple one-page company landing site to briefly showcase the areas of emphasis
 that the company provides. 
 
-Mock Up: 
