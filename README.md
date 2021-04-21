@@ -9,6 +9,7 @@ Horiseon -
 <!--             Artice/Main alignment, font thickness -->
 
 Website URL: https://mohlenkamp.github.io/Horiseon/
+GitHub Site: https://github.com/Mohlenkamp/Horiseon
 
 Description: Horiseon is an SEO, Reputation Management, and Social Media Marketing Company.
 This is a simple one-page company landing site to briefly showcase the areas of emphasis
